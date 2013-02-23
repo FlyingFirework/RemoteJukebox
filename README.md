@@ -1,4 +1,4 @@
-![RemoteJukebox](http://keybordpiano459.com/images/banners/kessentials.png)
+![RemoteJukebox](https://raw.github.com/keybordpiano459/RemoteJukebox/master/remotejukebox.png)
 
 RemoteJukebox is a useful plugin that can represent a remote control in real-life, just with commands, in minecraft, on a jukebox.
 
