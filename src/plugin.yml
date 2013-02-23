@@ -1,0 +1,14 @@
+name: RemoteJukebox
+main: me.KeybordPiano459.RemoteJukebox.RemoteJukebox
+version: 1.0
+
+commands:
+  jukebox:
+    description: The base command for RemoteJukebox
+    permission: remotejukebox.jukebox
+    aliases: [jbox]
+
+permissions:
+  remotejukebox.jukebox:
+    description: /jukebox
+    default: op
